@@ -1,7 +1,6 @@
 # GrowthLink-Task
 
 
-%%writefile README.md
 # SMS Spam Classification
 
 This project aims to develop a machine learning model that can classify SMS messages as either spam or ham (not spam).
